@@ -5,7 +5,7 @@
 - [React Router](https://reactrouter.com/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
-- [Zen UI]([https://daisyui.com/](https://zenui.net/components/all-components)
+- [Zen UI](https://zenui.net/components/all-components)
 - [React Hot Toast](https://react-hot-toast.com/)
 - [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons#_)
 - [React Icons](https://react-icons.github.io/react-icons/)
