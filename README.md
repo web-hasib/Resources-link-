@@ -13,3 +13,4 @@
 - [Kitwind TailwindCSS Component Library](https://kitwind.io/products/kometa/components)
 - [Atik vai github](https://github.com/shakilahmedatik)
 - [dot ENV](https://www.npmjs.com/package/dotenv)
+- [react helmet (dynamic title)](https://www.npmjs.com/package/react-helmet)
