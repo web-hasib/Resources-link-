@@ -14,3 +14,4 @@
 - [Atik vai github](https://github.com/shakilahmedatik)
 - [dot ENV](https://www.npmjs.com/package/dotenv)
 - [react helmet (dynamic title)](https://www.npmjs.com/package/react-helmet)
+- [doc for server deploy](https://docs.google.com/document/d/1wCn-okRkwxXS6huLo3St2_EsEMeDDtaU7oLIGqWylrM/edit?tab=t.0#heading=h.7u5ae0tz2ov1)
