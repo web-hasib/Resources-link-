@@ -3,13 +3,18 @@
 - [Awesome react component ](https://github.com/brillout/awesome-react-components)
 - [Vite](https://vite.dev/)
 - [React Router](https://reactrouter.com/)
+- ## Designing 
 - [TailwindCSS](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
 - [Zen UI](https://zenui.net/components/all-components)
+- [Magic UI](https://magicui.design/docs/components/file-tree)
 - [React Hot Toast](https://react-hot-toast.com/)
 - [TailwindCSS Buttons](https://devdojo.com/tailwindcss/buttons#_)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [lottie animation](https://lottiefiles.com/)
+- ## animation
+- [motion](https://motion.dev/)
+- [lottie-react-with lotttie json](https://www.npmjs.com/package/lottie-react)
 - [Kitwind TailwindCSS Component Library](https://kitwind.io/products/kometa/components)
 - [Atik vai github](https://github.com/shakilahmedatik)
 - [dot ENV](https://www.npmjs.com/package/dotenv)
